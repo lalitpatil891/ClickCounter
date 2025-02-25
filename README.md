@@ -13,8 +13,8 @@ A simple and interactive counter app built using React. Tap to increase or decre
 
 ## 📸 Preview
 ![ClickCount Preview](public/sc/sc-1.jpg)
-![ClickCount Preview](/sc/sc2.jpg)
-![ClickCount Preview](/sc/sc3.jpg)
+![ClickCount Preview](public/sc/sc-2.jpg)
+![ClickCount Preview](public/sc/sc-3.jpg)
 
 ## 📂 Installation & Usage
 ```sh
