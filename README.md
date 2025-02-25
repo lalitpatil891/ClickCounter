@@ -35,4 +35,4 @@ npm start
 [ClickCount Live](https://clickcountbylp.netlify.app)
 
 ## 🏆 Author
-Developed with ❤️ by [Lalit Patil](https://github.com/lalitpatil891)
+Developed with ❤️ by [Lalit Patil](https://lalitpatil891.github.io/MyPortfolio/)
